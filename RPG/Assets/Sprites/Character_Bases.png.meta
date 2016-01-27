@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: a6226763b76a96a4b885a53eee3dc228
+timeCreated: 1446526317
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MPlayerForward
+    21300002: MPlayerForward2
+    21300004: MPlayerForward3
+    21300006: MPlayerForward4
+    21300008: FPlayerForward
+    21300010: FPlayerForward2
+    21300012: FPlayerForward3
+    21300014: FPlayerForward4
+    21300016: MPlayerLeft
+    21300018: MPlayerLeft2
+    21300020: MPlayerLeft3
+    21300022: MPlayerLeft4
+    21300024: FPlayerLeft
+    21300026: FPlayerLeft2
+    21300028: FPlayerLeft3
+    21300030: FPlayerLeft4
+    21300032: MPlayerRight
+    21300034: MPlayerRight2
+    21300036: MPlayerRight3
+    21300038: MPlayerRight4
+    21300040: FPlayerRight
+    21300042: FPlayerRight2
+    21300044: FPlayerRight3
+    21300046: FPlayerRight4
+    21300048: MPlayerBack
+    21300050: MPlayerBack2
+    21300052: MPlayerBack3
+    21300054: MPlayerBack4
+    21300056: FPlayerBack
+    21300058: FPlayerBack2
+    21300060: FPlayerBack3
+    21300062: FPlayerBack4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MPlayerForward
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerForward2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 149
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerForward3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 149
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerForward4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 149
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerForward
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 152
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerForward2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 152
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerForward3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 152
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerForward4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 152
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerLeft2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerLeft3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerLeft4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 100
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerLeft
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 104
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerLeft2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 104
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerLeft3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 104
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerLeft4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 104
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerRight
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerRight2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 50
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerRight3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerRight4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 50
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerRight
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 56
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerRight2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 56
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerRight3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 56
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerRight4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 56
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerBack
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerBack2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerBack3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MPlayerBack4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerBack
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 8
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerBack2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 8
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerBack3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FPlayerBack4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

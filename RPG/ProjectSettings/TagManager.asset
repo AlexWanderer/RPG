@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pause Menu
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Floor Covering
+  - Foreground
+  - Entity
+  - UI
+  - Pause
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1840485489
+    locked: 0
+  - name: Floor Covering
+    uniqueID: 3962232003
+    locked: 0
+  - name: Foreground
+    uniqueID: 3938856641
+    locked: 0
+  - name: Entity
+    uniqueID: 3221063905
+    locked: 0
+  - name: UI
+    uniqueID: 2771001345
+    locked: 0
+  - name: Pause
+    uniqueID: 3297211901
+    locked: 0
